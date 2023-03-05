@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shandong University, Jinan, China, 2013
+* Ph.D in Beijing institute of technology, Beijing, China, 2013
 
 Work experience
 ======
@@ -36,7 +35,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
