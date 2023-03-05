@@ -10,7 +10,7 @@ locale                   : "Singapore"
 title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Zeying Zhang"
-description              : &description "personal description"
+description              : &description "teestteestteestteestteestteestteestteestteestteestteestteestteestteestteest"
 url                      : https://zhangzeyingvv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangzeyingvv/zhangzeyingvv.github.io"
@@ -86,8 +86,8 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=mY-xQW4AAAAJ&hl=en"
+  email            :  "zhangzeyingvv@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
